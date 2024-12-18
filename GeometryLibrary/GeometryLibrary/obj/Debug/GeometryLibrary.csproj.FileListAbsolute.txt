@@ -1,0 +1,6 @@
+C:\Users\Kolugin\source\repos\GeometryLibrary\GeometryLibrary\bin\Debug\GeometryLibrary.dll
+C:\Users\Kolugin\source\repos\GeometryLibrary\GeometryLibrary\bin\Debug\GeometryLibrary.pdb
+C:\Users\Kolugin\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\GeometryLibrary.csproj.AssemblyReference.cache
+C:\Users\Kolugin\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\GeometryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kolugin\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\GeometryLibrary.dll
+C:\Users\Kolugin\source\repos\GeometryLibrary\GeometryLibrary\obj\Debug\GeometryLibrary.pdb
